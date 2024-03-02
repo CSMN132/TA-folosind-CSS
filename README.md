@@ -1,1 +1,1 @@
-Acesta este un proiect pentru testare automata folosind CSS
+Acesta este un proiect de testare automata folosind CSS pentru site-ul "automationintesting.online".
